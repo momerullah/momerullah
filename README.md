@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-I'm currently working: As an Associate Engineer @ComEd, Chicago<br> Education: M.S DePaul University <br>
+Work: Associate Engineer @ComEd, Chicago <br><br> Education: M.S DePaul University <br>
 
 
 ## 🌐 Socials:
