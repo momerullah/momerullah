@@ -1,9 +1,8 @@
 #  F1TaxReturn.com
 
 
-# 💫 About Me:
-
-Work: Associate Engineer @ComEd, Chicago <br><br> Education: M.S DePaul University <br>
+#  About Me:
+Engineer @ComEd, Chicago <br><br> Education: M.S DePaul University <br>
 
 
 ## 🌐 Socials:
