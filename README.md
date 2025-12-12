@@ -2,7 +2,7 @@
 
 
 #  About Me:
-Engineer @ComEd, Chicago <br><br> Education: M.S DePaul University <br>
+Engineer @ComEd, Chicago <br><br> B.E Computer Engineering M.S Computer Science <br>
 
 
 ## 🌐 Socials:
