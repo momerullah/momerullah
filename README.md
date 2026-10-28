@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omerullah+%F0%9F%91%8B;Software+engineer+%40+ComEd%2C+Chicago;AI-native+%C2%B7+agentic+dev+%F0%9F%A4%96;Building+something+in+stealth+%F0%9F%A4%AB" alt="Hi, I'm Omerullah. Software engineer at ComEd, Chicago. AI-native, agentic dev. Building something in stealth." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omerullah;Software+engineer+%40+ComEd%2C+Chicago;AI-native+%C2%B7+agentic+dev;Building+something+in+stealth" alt="Hi, I'm Omerullah. Software engineer at ComEd, Chicago. AI-native, agentic dev. Building something in stealth." />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerullah/)
 [![X](https://img.shields.io/badge/@MOmerullah-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MOmerullah)
@@ -8,14 +8,13 @@
 
 </div>
 
-## About me
+## About
 
-- 🏢 Engineer at **ComEd**, Chicago
-- 🎓 M.S. Computer Science · B.E. Computer Engineering
-- 🤖 **AI-native engineer.** I build through agentic workflows: agents write and test the code, and I own the architecture, the reviews and what ships
-- 🧪 I run evals and benchmark models and harnesses against real tasks, so I know which one to reach for
-- 🚀 I pick up every new agentic dev tool, model and technique as it lands
-- 🛠️ Building a full-stack product in stealth: payments, PDFs, auth, CI/CD, the lot
+Software engineer at **ComEd** in Chicago. M.S. Computer Science, B.E. Computer Engineering.
+
+I'm AI-native. I build through agentic workflows: agents write and test the code, and I own the architecture, the review and what ships. I run evals and benchmark models and harnesses on real tasks, so I know which one to reach for, and I pick up new agentic tooling as it lands.
+
+Right now I'm building a full-stack product in stealth: payments, PDF generation, auth, CI/CD.
 
 ## Shipping log
 
