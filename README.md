@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omerullah+%F0%9F%91%8B;Software+engineer+%40+ComEd%2C+Chicago;Building+something+in+stealth+%F0%9F%A4%AB;Full-stack%3A+TypeScript+%C2%B7+Next.js+%C2%B7+AWS" alt="Hi, I'm Omerullah. Software engineer at ComEd, Chicago. Building something in stealth." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omerullah+%F0%9F%91%8B;Software+engineer+%40+ComEd%2C+Chicago;AI-native+%C2%B7+agentic+dev+%F0%9F%A4%96;Building+something+in+stealth+%F0%9F%A4%AB" alt="Hi, I'm Omerullah. Software engineer at ComEd, Chicago. AI-native, agentic dev. Building something in stealth." />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerullah/)
 [![X](https://img.shields.io/badge/@MOmerullah-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MOmerullah)
@@ -12,8 +12,10 @@
 
 - 🏢 Engineer at **ComEd**, Chicago
 - 🎓 M.S. Computer Science · B.E. Computer Engineering
+- 🤖 **AI-native engineer.** I build through agentic workflows: agents write and test the code, and I own the architecture, the reviews and what ships
+- 🧪 I run evals and benchmark models and harnesses against real tasks, so I know which one to reach for
+- 🚀 I pick up every new agentic dev tool, model and technique as it lands
 - 🛠️ Building a full-stack product in stealth: payments, PDFs, auth, CI/CD, the lot
-- 🤖 I ship with an AI pair programmer and own the product, the reviews and the tests
 
 ## Shipping log
 
@@ -36,7 +38,21 @@
 
 ## Stack
 
+Any stack. Working agent-first means the language and framework are the job's choice, not mine.
+
 <div align="center">
+
+**Agentic tooling**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![T3 Chat](https://img.shields.io/badge/T3_Chat-A3004C?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square)
+![Any model](https://img.shields.io/badge/models-Claude_·_GPT_·_Gemini_·_open_weights-6E40C9?style=flat-square)
+![Evals](https://img.shields.io/badge/evals_&_benchmarking-2EA043?style=flat-square)
+
+**Shipped with recently**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
